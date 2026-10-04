@@ -4,6 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.vocenya-1f3a2b)](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.vocenya)
+
+<a href="https://allmcps.com/mcp/vocenya"><img src="https://allmcps.com/api/badge/vocenya?style=directory&theme=light" alt="AllMCPs" height="40" /></a> <a href="https://allmcps.com/mcp/vocenya-site"><img src="https://allmcps.com/api/badge/vocenya-site?style=featured&theme=light" alt="AllMCPs" height="32" /></a>
+
 <!-- [![Vocenya Docs MCP connector](https://glama.ai/mcp/connectors/com.vocenya/docs/badges/score.svg)](https://glama.ai/mcp/connectors/com.vocenya/docs) -->
 <!-- [![Smithery](SMITHERY_BADGE_URL)](SMITHERY_SERVER_URL) -->
 <!-- [![MCP Market](MCPMARKET_BADGE_URL)](MCPMARKET_LISTING_URL) -->
