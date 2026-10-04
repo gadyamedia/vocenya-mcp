@@ -1,0 +1,14 @@
+{
+    "name": "vocenya",
+    "version": "1.0.0",
+    "description": "Vocenya AI receptionist for developers: the public Vocenya Docs MCP server plus skills for the REST API, webhooks and the website live chat install.",
+    "author": {
+        "name": "GH Business Solutions",
+        "email": "info@gh-businesssolutions.com",
+        "url": "https://vocenya.com"
+    },
+    "homepage": "https://vocenya.com/docs/mcp",
+    "repository": "https://github.com/gadyamedia/vocenya-mcp",
+    "license": "MIT",
+    "keywords": ["vocenya", "vocenya-api", "vocenya-mcp"]
+}

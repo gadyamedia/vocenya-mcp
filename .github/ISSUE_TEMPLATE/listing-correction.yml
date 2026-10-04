@@ -1,0 +1,40 @@
+name: Listing correction
+description: Report wrong or outdated information about a Vocenya MCP server, here or in a directory.
+title: 'Listing correction: '
+labels: ['listing']
+body:
+    - type: markdown
+      attributes:
+          value: |
+              Thanks for helping keep the listings accurate. Do not paste API keys or customer data here. Security problems go to info@gh-businesssolutions.com (see SECURITY.md).
+    - type: dropdown
+      id: server
+      attributes:
+          label: Which server?
+          options:
+              - Vocenya Docs (https://vocenya.com/mcp/docs)
+              - Vocenya platform (https://vocenya.com/mcp/platform)
+              - Vocenya Site (https://vocenya.com/mcp/site)
+              - Claude Code plugin
+              - Not sure
+      validations:
+          required: true
+    - type: input
+      id: where
+      attributes:
+          label: Where is the wrong information?
+          description: A link to the directory page, registry entry or file in this repository.
+          placeholder: https://...
+      validations:
+          required: true
+    - type: textarea
+      id: wrong
+      attributes:
+          label: What is wrong?
+      validations:
+          required: true
+    - type: textarea
+      id: correct
+      attributes:
+          label: What should it say?
+          description: If you know the correct value, add a source for it (for example a page on vocenya.com/docs).

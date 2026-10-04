@@ -1,0 +1,18 @@
+{
+    "name": "vocenya",
+    "description": "Vocenya plugins for Claude Code, published by GH Business Solutions.",
+    "owner": {
+        "name": "GH Business Solutions",
+        "email": "info@gh-businesssolutions.com"
+    },
+    "plugins": [
+        {
+            "name": "vocenya",
+            "source": "./plugins/vocenya",
+            "description": "Vocenya Docs MCP server plus skills for the Vocenya REST API, webhooks and live chat install.",
+            "homepage": "https://vocenya.com/docs/mcp",
+            "repository": "https://github.com/gadyamedia/vocenya-mcp",
+            "license": "MIT"
+        }
+    ]
+}

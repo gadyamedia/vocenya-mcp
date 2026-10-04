@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+    - name: Vocenya MCP documentation
+      url: https://vocenya.com/docs/mcp
+      about: Setup for Claude, ChatGPT, Cursor and other clients. Account questions go to info@gh-businesssolutions.com.
