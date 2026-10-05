@@ -163,6 +163,10 @@ Or, with an API key, through the `mcp-remote` bridge in `claude_desktop_config.j
 
 Turn on developer mode, then add a custom connector with the URL `https://vocenya.com/mcp/docs` and no authentication. For your account data, add `https://vocenya.com/mcp/platform` with OAuth and sign in with your Vocenya owner account.
 
+### Grok and Grok Bot
+
+On Grok Business and Enterprise, add `https://vocenya.com/mcp/platform` as a custom MCP connector ("Bring your own MCP") and sign in with OAuth, or use an API key with read scopes only. The [`plugins/vocenya-grok`](plugins/vocenya-grok) folder packages both servers with a daily front-desk review skill for a Grok Bot: it summarizes calls, chats and leads and drafts follow-ups, and never contacts a customer without approval.
+
 ### Any other client
 
 Any client that supports Streamable HTTP works. For the platform server, sign in with OAuth, or send `Authorization: Bearer <your key>`.

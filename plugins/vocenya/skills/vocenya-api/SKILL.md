@@ -9,7 +9,7 @@ The Vocenya REST API and platform MCP server give access to one business’s Voc
 
 ## Authenticate
 
-- Ask the business owner for an organization API key. They create it on the Developers page of the Vocenya portal (https://vocenya.com/app/developers) and choose its scopes. There is no OAuth or self-service registration. Details: https://vocenya.com/auth.md
+- Ask the business owner for an organization API key. They create it on the Developers page of the Vocenya portal (https://vocenya.com/app/developers) and choose its scopes. MCP clients that sign in with OAuth can instead connect to the platform MCP server and have an owner approve the same scopes. Details: https://vocenya.com/auth.md
 - Send it on every request: `Authorization: Bearer vk_live_...`
 - 401 means the key is missing, invalid, expired or revoked. 403 with `missing_scope` means the key needs another scope: tell the owner which one.
 

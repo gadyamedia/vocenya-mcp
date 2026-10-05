@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "vocenya": {
+            "type": "http",
+            "url": "https://vocenya.com/mcp/platform",
+            "note": "One business account's calls, leads, bookings and chats, plus outbound calls and the Do Not Call list. Sign in with OAuth (an account owner chooses the account and permissions), or send Authorization: Bearer <API key> from https://vocenya.com/app/developers."
+        },
+        "vocenya-docs": {
+            "type": "http",
+            "url": "https://vocenya.com/mcp/docs",
+            "note": "Public, read-only Vocenya developer docs. No key."
+        }
+    }
+}

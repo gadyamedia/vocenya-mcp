@@ -1,0 +1,13 @@
+{
+    "name": "vocenya-grok",
+    "version": "1.0.0",
+    "description": "Vocenya AI receptionist for Grok Bot: the Vocenya platform MCP server (calls, leads, bookings, chats, outbound calls, Do Not Call list) with OAuth, the public Docs MCP server, and a daily front-desk review skill.",
+    "author": {
+        "name": "GH Business Solutions",
+        "url": "https://vocenya.com"
+    },
+    "repository": "https://github.com/gadyamedia/vocenya-mcp",
+    "homepage": "https://vocenya.com/docs/mcp#grok-and-grok-bot",
+    "license": "MIT",
+    "keywords": ["vocenya", "ai-receptionist", "calls", "leads", "small-business", "mcp", "grok-bot"]
+}
