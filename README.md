@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.vocenya-1f3a2b)](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.vocenya)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/gadyamedia/vocenya-mcp)
 
 <a href="https://allmcps.com/mcp/vocenya-site"><img src="https://allmcps.com/api/badge/vocenya-site?theme=light" alt="Vocenya Site on AllMCPs" height="20" /></a> <a href="https://allmcps.com/mcp/vocenya"><img src="https://allmcps.com/api/badge/vocenya?theme=light" alt="Vocenya on AllMCPs" height="20" /></a> <a href="https://allmcps.com/mcp/vocenya-docs"><img src="https://allmcps.com/api/badge/vocenya-docs?theme=light" alt="Vocenya Docs on AllMCPs" height="20" /></a>
 
